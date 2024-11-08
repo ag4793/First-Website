@@ -1,0 +1,24 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+}
+h1 {text-align: center;}
+
+h2 {text-align: center;}
+
+h3{text-align: center;}
+
+
+
+th {
+    background-color: #000000;
+    color: rgb(54, 119, 218);
+  }
+
+  td {
+    background-color: #000000;
+    color:rgb(54, 119, 218);
+  }
+  
+  form {text-align: center;}
